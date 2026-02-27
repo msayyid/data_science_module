@@ -1,2 +1,16 @@
-.venv
-.venv-1
+# Virtual env
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code (optional)
+.vscode/
